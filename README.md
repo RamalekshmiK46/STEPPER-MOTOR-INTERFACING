@@ -5,6 +5,7 @@ To write an assembly language program in 8086 to rotate the motor at different s
 
 ---
 
+
 ## APPARATUS REQUIRED
 
 | S. No | Item                        | Specification   | Quantity |
